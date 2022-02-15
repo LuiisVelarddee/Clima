@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState } from "react";
-
+ 
 function App() {
   const [city, setCity] = useState("");
   const [cityData, setCityData] = useState({});
@@ -57,4 +57,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
